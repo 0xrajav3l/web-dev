@@ -1,0 +1,8 @@
+--[ 0x01 - Web App Bug Hunting
+
+
+--[ 1. Initial Enumeration
+    
+    - Ping the Ip address. Look for the ttl. Linux uses 64 and windows 128 nw devices 256
+    - 
+
